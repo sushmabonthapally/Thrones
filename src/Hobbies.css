@@ -1,0 +1,12 @@
+
+.hobby{
+    text-decoration: underline;
+    margin-bottom: 5%;
+    /* margin-bottom: -12%;
+    margin:auto */
+}
+
+.hobbyDetails {
+    margin:auto;
+    width:100%;
+}
